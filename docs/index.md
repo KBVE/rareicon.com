@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RareIcon.com
+title: Home
 has_children: true
 nav_order: 1
 ---
