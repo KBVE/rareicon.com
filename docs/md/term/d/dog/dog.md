@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Apple
-description: "Apple icons for everyone to use."
-parent: A
+title: Dog
+description: "Dog icons for everyone to use."
+parent: D
 grand_parent: Term
 has_children: false
 ---
-# Apple
+# {{ page.title }}
 {{ page.description }}
