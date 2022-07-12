@@ -1,6 +1,6 @@
 ---
 layout: default
-title: a
+title: A
 description: "All terms that start with A"
 parent: term
 has_children: true

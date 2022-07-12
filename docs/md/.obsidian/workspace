@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "term/b/bitcoin/bitcoin.md",
+            "file": "term/term.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "term/b/bitcoin/bitcoin.md",
+                "file": "term/term.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "4174840cdc88354a",
   "lastOpenFiles": [
+    "term/term.md",
     "term/b/bitcoin/bitcoin.md",
     "term/a/apple/apple.md",
     "term/a/a.md",
@@ -109,7 +110,6 @@
     "term/f/f.md",
     "term/e/e.md",
     "term/d/d.md",
-    "term/c/c.md",
-    "term/b/b.md"
+    "term/c/c.md"
   ]
 }

@@ -1,5 +1,6 @@
 ---
 layout: default
-title: term
+title: Term
 has_children: true
 ---
+# Term

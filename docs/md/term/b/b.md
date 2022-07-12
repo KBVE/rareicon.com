@@ -1,6 +1,6 @@
 ---
 layout: default
-title: b
+title: B
 description: "All terms that start with B"
 parent: term
 has_children: true
