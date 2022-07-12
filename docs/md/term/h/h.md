@@ -1,8 +1,8 @@
 ---
 layout: default
-title: h
+title: H
 description: "All terms that start with H"
-parent: term
+parent: Term
 has_children: true
 ---
 # H

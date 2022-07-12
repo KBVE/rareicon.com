@@ -1,8 +1,8 @@
 ---
 layout: default
-title: e
+title: E
 description: "All terms that start with E"
-parent: term
+parent: Term
 has_children: true
 ---
 # E

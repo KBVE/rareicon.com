@@ -1,8 +1,8 @@
 ---
 layout: default
-title: f
+title: F
 description: "All terms that start with F"
-parent: term
+parent: Term
 has_children: true
 ---
 # F
