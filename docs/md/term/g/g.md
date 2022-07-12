@@ -4,6 +4,14 @@ title: G
 description: "All terms that start with G"
 parent: Term
 has_children: true
+redirect_from:
+  - /G/
+  - /g/
 ---
-# G
+# {{ page.title }}
 {{ page.description }}
+
+* * * 
+
+## Note
+- Note:

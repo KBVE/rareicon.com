@@ -4,6 +4,14 @@ title: H
 description: "All terms that start with H"
 parent: Term
 has_children: true
+redirect_from:
+  - /H/
+  - /h/
 ---
-# H
+# {{ page.title }}
 {{ page.description }}
+
+* * * 
+
+## Note
+- Note:

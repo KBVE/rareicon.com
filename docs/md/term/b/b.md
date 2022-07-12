@@ -4,6 +4,14 @@ title: B
 description: "All terms that start with B"
 parent: Term
 has_children: true
+redirect_from:
+  - /B/
+  - /b/
 ---
-# B
+# {{ page.title }}
 {{ page.description }}
+
+* * * 
+
+## Note
+- Note:
