@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Make issues on KBVE Repo
+    url: https://github.com/KBVE/kbve.com/issues/new/choose
+    about: Issues are tracked on the main repo
+  - name: Ask us on Discord!?
+    url: https://kbve.com/discord/
+    about: Join the Discord and give us your suggestions
+  - name: Contact Us via Support Ticket!?
+    url: https://kbve.com/support/
+    about: Visit our content us page and open a support ticket it!
