@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: "lts/*"
           cache: "npm"
-          cache-dependency-path: ./package-lock.lock
+          cache-dependency-path: ./package-lock.json
 
       - name: Build
         working-directory: ./
